@@ -1,0 +1,20 @@
+{
+    "trim_pattern.expanded_trims.sine": "Sine Tool Trim",
+    "trim_pattern.expanded_trims.linear": "Linear Tool Trim",
+    "trim_pattern.expanded_trims.lacquer": "Lacquer Tool Trim",
+    "trim_pattern.expanded_trims.accent": "Accent Trim",
+    
+    "trim_material.expanded_trims.pearl": "Pearl Material",
+    "trim_material.expanded_trims.echo": "Echo Material",
+    "trim_material.expanded_trims.glowstone": "Glowstone Material",
+
+    "item.expanded_trims.smithing_template.applies_to.sine": "Swords & Spears",
+    "item.expanded_trims.smithing_template.applies_to.linear": "Tools, Swords, Spears",
+    "item.expanded_trims.smithing_template.applies_to.lacquer": "Tools, Swords, Spears, Armor",
+    "item.expanded_trims.smithing_template.applies_to.accent": "Misc",
+
+    "item.expanded_trims.sine_trim_smithing_template": "Sine Trim",
+    "item.expanded_trims.linear_trim_smithing_template": "Linear Trim",
+    "item.expanded_trims.lacquer_trim_smithing_template": "Lacquer Trim",
+    "item.expanded_trims.accent_trim_smithing_template": "Accent Trim"
+}

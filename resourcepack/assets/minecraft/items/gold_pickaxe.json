@@ -1,0 +1,33 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/gold_pickaxe_gold_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/gold_pickaxe_gold_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:lacquer"
+        }
+      }
+    ],
+    "component": "minecraft:trim",
+    "fallback": {
+      "model": "minecraft:item/gold_pickaxe",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
+  }
+}

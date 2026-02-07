@@ -1,0 +1,76 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "palette_key": "trims/color_palettes/trim_palette",
+      "textures": [
+        "expanded_trims:trims/items/sine_sword",
+        "expanded_trims:trims/items/linear_sword",
+        "expanded_trims:trims/items/linear_pickaxe",
+        "expanded_trims:trims/items/linear_axe",
+        "expanded_trims:trims/items/linear_shovel",
+        "expanded_trims:trims/items/linear_hoe",
+        "expanded_trims:trims/items/linear_netherite_handle",
+        "expanded_trims:trims/items/linear_flint_and_steel",
+        "expanded_trims:trims/items/lacquer_sword",
+        "expanded_trims:trims/items/lacquer_pickaxe",
+        "expanded_trims:trims/items/lacquer_axe",
+        "expanded_trims:trims/items/lacquer_shovel",
+        "expanded_trims:trims/items/lacquer_hoe",
+        "expanded_trims:trims/items/accent_totem_of_undying",
+        "expanded_trims:trims/items/lacquer_goat_horn",
+        "expanded_trims:trims/items/accent_goat_horn",
+        "expanded_trims:trims/items/lacquer_flint_and_steel",
+        "expanded_trims:trims/items/lacquer_mace",
+        "expanded_trims:trims/items/accent_flint_and_steel",
+        "expanded_trims:trims/items/lacquer_totem_of_undying",
+        "expanded_trims:trims/items/lacquer_brush",
+        "expanded_trims:trims/items/accent_brush",
+        "expanded_trims:trims/items/lacquer_shears",
+        "expanded_trims:trims/items/accent_shears",
+        "expanded_trims:trims/items/lacquer_spear",
+        "expanded_trims:trims/items/lacquer_spear_in_hand",
+        "expanded_trims:trims/items/linear_spear",
+        "expanded_trims:trims/items/linear_spear_in_hand",
+        "expanded_trims:trims/items/sine_spear",
+        "expanded_trims:trims/items/sine_spear_in_hand"
+      ],
+      "permutations": {
+        "amethyst": "minecraft:trims/color_palettes/amethyst",
+        "copper": "minecraft:trims/color_palettes/copper",
+        "copper_darker": "minecraft:trims/color_palettes/copper_darker",
+        "diamond": "minecraft:trims/color_palettes/diamond",
+        "diamond_darker": "minecraft:trims/color_palettes/diamond_darker",
+        "emerald": "minecraft:trims/color_palettes/emerald",
+        "gold": "minecraft:trims/color_palettes/gold",
+        "gold_darker": "minecraft:trims/color_palettes/gold_darker",
+        "iron": "minecraft:trims/color_palettes/iron",
+        "iron_darker": "minecraft:trims/color_palettes/iron_darker",
+        "lapis": "minecraft:trims/color_palettes/lapis",
+        "netherite": "minecraft:trims/color_palettes/netherite",
+        "netherite_darker": "minecraft:trims/color_palettes/netherite_darker",
+        "quartz": "minecraft:trims/color_palettes/quartz",
+        "redstone": "minecraft:trims/color_palettes/redstone",
+        "resin": "minecraft:trims/color_palettes/resin",
+        "pearl": "expanded_trims:trims/color_palettes/pearl",
+        "echo": "expanded_trims:trims/color_palettes/echo",
+        "glowstone": "expanded_trims:trims/color_palettes/glowstone"
+      }
+    },
+    {
+      "type": "paletted_permutations",
+      "palette_key": "trims/color_palettes/trim_palette",
+      "textures": [
+        "trims/items/leggings_trim",
+        "trims/items/chestplate_trim",
+        "trims/items/helmet_trim",
+        "trims/items/boots_trim"
+      ],
+      "permutations": {
+        "pearl": "expanded_trims:trims/color_palettes/pearl",
+        "echo": "expanded_trims:trims/color_palettes/echo",
+        "glowstone": "expanded_trims:trims/color_palettes/glowstone"
+      }
+    }
+  ]
+}

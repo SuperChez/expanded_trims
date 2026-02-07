@@ -1,0 +1,153 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_quartz_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_iron_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_netherite_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_redstone_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_copper_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_gold_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_emerald_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_diamond_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_lapis_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_amethyst_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_resin_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_pearl_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_echo_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/mace_glowstone_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      }
+    ],
+    "component": "minecraft:trim",
+    "fallback": {
+      "model": "minecraft:item/mace",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
+  }
+}

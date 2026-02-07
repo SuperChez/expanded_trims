@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/totem_of_undying",
+    "layer1": "expanded_trims:trims/items/accent_totem_of_undying_iron"
+  }
+}

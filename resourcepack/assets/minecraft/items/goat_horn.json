@@ -1,0 +1,153 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_quartz_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_iron_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_netherite_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_redstone_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_copper_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_gold_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_emerald_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_diamond_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_lapis_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_amethyst_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_resin_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_pearl_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_echo_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/goat_horn_glowstone_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:accent"
+        }
+      }
+    ],
+    "component": "minecraft:trim",
+    "fallback": {
+      "model": "minecraft:item/goat_horn",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
+  }
+}

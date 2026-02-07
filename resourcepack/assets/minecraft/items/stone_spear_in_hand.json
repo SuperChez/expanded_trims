@@ -1,0 +1,153 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_quartz_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_iron_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_netherite_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_redstone_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_copper_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_gold_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_emerald_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_diamond_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_lapis_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_amethyst_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_resin_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_pearl_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_echo_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_spear_in_hand_glowstone_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:linear"
+        }
+      }
+    ],
+    "component": "minecraft:trim",
+    "fallback": {
+      "model": "minecraft:item/stone_spear_in_hand",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
+  }
+}

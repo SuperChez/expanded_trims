@@ -1,0 +1,1183 @@
+{
+  "model": {
+    "entries": [
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_quartz_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:quartz",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_quartz_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:quartz",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_iron_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:iron",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_iron_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:iron",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_netherite_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:netherite",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_netherite_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:netherite",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_redstone_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:redstone",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_redstone_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:redstone",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_copper_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:copper",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_copper_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:copper",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_gold_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:gold",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_gold_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:gold",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_emerald_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:emerald",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_emerald_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:emerald",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_diamond_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:diamond",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_diamond_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:diamond",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_lapis_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:lapis",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_lapis_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:lapis",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_amethyst_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:amethyst",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_amethyst_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:amethyst",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_resin_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:resin",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_resin_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:resin",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_pearl_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:pearl",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_pearl_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:pearl",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_echo_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:echo",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_echo_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:echo",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_glowstone_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:glowstone",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_0_glowstone_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:glowstone",
+                "pattern": "expanded_trims:accent"
+              }
+            }
+          ],
+          "component": "minecraft:trim",
+          "fallback": {
+            "model": "minecraft:item/brush_brushing_0",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:component",
+          "type": "minecraft:select"
+        },
+        "threshold": 0.25
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_quartz_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:quartz",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_quartz_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:quartz",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_iron_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:iron",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_iron_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:iron",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_netherite_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:netherite",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_netherite_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:netherite",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_redstone_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:redstone",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_redstone_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:redstone",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_copper_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:copper",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_copper_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:copper",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_gold_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:gold",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_gold_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:gold",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_emerald_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:emerald",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_emerald_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:emerald",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_diamond_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:diamond",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_diamond_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:diamond",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_lapis_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:lapis",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_lapis_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:lapis",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_amethyst_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:amethyst",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_amethyst_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:amethyst",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_resin_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:resin",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_resin_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:resin",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_pearl_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:pearl",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_pearl_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:pearl",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_echo_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:echo",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_echo_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:echo",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_glowstone_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:glowstone",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_1_glowstone_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:glowstone",
+                "pattern": "expanded_trims:accent"
+              }
+            }
+          ],
+          "component": "minecraft:trim",
+          "fallback": {
+            "model": "minecraft:item/brush_brushing_1",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:component",
+          "type": "minecraft:select"
+        },
+        "threshold": 0.5
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_quartz_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:quartz",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_quartz_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:quartz",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_iron_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:iron",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_iron_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:iron",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_netherite_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:netherite",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_netherite_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:netherite",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_redstone_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:redstone",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_redstone_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:redstone",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_copper_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:copper",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_copper_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:copper",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_gold_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:gold",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_gold_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:gold",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_emerald_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:emerald",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_emerald_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:emerald",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_diamond_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:diamond",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_diamond_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:diamond",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_lapis_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:lapis",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_lapis_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:lapis",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_amethyst_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:amethyst",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_amethyst_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:amethyst",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_resin_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:resin",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_resin_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "minecraft:resin",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_pearl_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:pearl",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_pearl_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:pearl",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_echo_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:echo",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_echo_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:echo",
+                "pattern": "expanded_trims:accent"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_glowstone_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:glowstone",
+                "pattern": "expanded_trims:lacquer"
+              }
+            },
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/brush_brushing_2_glowstone_accent_trim",
+                "type": "minecraft:model"
+              },
+              "when": {
+                "material": "expanded_trims:glowstone",
+                "pattern": "expanded_trims:accent"
+              }
+            }
+          ],
+          "component": "minecraft:trim",
+          "fallback": {
+            "model": "minecraft:item/brush_brushing_2",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:component",
+          "type": "minecraft:select"
+        },
+        "threshold": 0.75
+      }
+    ],
+    "fallback": {
+      "cases": [
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_quartz_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:quartz",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_quartz_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:quartz",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_iron_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:iron",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_iron_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:iron",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_netherite_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:netherite",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_netherite_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:netherite",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_redstone_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:redstone",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_redstone_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:redstone",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_copper_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:copper",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_copper_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:copper",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_gold_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:gold",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_gold_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:gold",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_emerald_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:emerald",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_emerald_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:emerald",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_diamond_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:diamond",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_diamond_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:diamond",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_lapis_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:lapis",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_lapis_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:lapis",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_amethyst_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:amethyst",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_amethyst_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:amethyst",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_resin_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:resin",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_resin_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "minecraft:resin",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_pearl_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "expanded_trims:pearl",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_pearl_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "expanded_trims:pearl",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_echo_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "expanded_trims:echo",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_echo_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "expanded_trims:echo",
+            "pattern": "expanded_trims:accent"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_glowstone_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "expanded_trims:glowstone",
+            "pattern": "expanded_trims:lacquer"
+          }
+        },
+        {
+          "model": {
+            "model": "expanded_trims:item/trimmed/brush_glowstone_accent_trim",
+            "type": "minecraft:model"
+          },
+          "when": {
+            "material": "expanded_trims:glowstone",
+            "pattern": "expanded_trims:accent"
+          }
+        }
+      ],
+      "component": "minecraft:trim",
+      "fallback": {
+        "model": "minecraft:item/brush",
+        "type": "minecraft:model"
+      },
+      "property": "minecraft:component",
+      "type": "minecraft:select"
+    },
+    "period": 10.0,
+    "property": "minecraft:use_cycle",
+    "scale": 0.1,
+    "type": "minecraft:range_dispatch"
+  }
+}

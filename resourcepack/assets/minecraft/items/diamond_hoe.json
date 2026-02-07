@@ -1,0 +1,293 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_quartz_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_quartz_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_iron_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_iron_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_netherite_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_netherite_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_redstone_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_redstone_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_copper_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_copper_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_gold_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_gold_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_emerald_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_emerald_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_diamond_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_diamond_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_lapis_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_lapis_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_amethyst_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_amethyst_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_resin_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_resin_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_pearl_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_pearl_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_echo_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_echo_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_glowstone_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/diamond_hoe_glowstone_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      }
+    ],
+    "component": "minecraft:trim",
+    "fallback": {
+      "model": "minecraft:item/diamond_hoe",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
+  }
+}

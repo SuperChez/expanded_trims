@@ -1,0 +1,19 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/gold_chestplate_gold_trim",
+          "type": "minecraft:model"
+        },
+        "when": "minecraft:gold"
+      }
+    ],
+    "fallback": {
+      "model": "minecraft:item/gold_chestplate",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:trim_material",
+    "type": "minecraft:select"
+  }
+}

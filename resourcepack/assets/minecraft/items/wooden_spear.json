@@ -1,0 +1,1208 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_quartz_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_quartz_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_quartz_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_quartz_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_quartz_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_quartz_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_iron_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_iron_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_iron_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_iron_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_iron_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_iron_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_netherite_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_netherite_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_netherite_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_netherite_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_netherite_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_netherite_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_redstone_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_redstone_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_redstone_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_redstone_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_redstone_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_redstone_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_copper_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_copper_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_copper_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_copper_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_copper_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_copper_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_gold_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_gold_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_gold_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_gold_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_gold_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_gold_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_emerald_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_emerald_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_emerald_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_emerald_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_emerald_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_emerald_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_diamond_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_diamond_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_diamond_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_diamond_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_diamond_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_diamond_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_lapis_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_lapis_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_lapis_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_lapis_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_lapis_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_lapis_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_amethyst_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_amethyst_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_amethyst_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_amethyst_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_amethyst_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_amethyst_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_resin_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_resin_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_resin_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_resin_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_resin_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_resin_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_pearl_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_pearl_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_pearl_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_pearl_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_pearl_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_pearl_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_echo_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_echo_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_echo_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_echo_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_echo_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_echo_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_glowstone_lacquer_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_glowstone_lacquer_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_glowstone_linear_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_glowstone_linear_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "cases": [
+            {
+              "model": {
+                "model": "expanded_trims:item/trimmed/wooden_spear_glowstone_sine_trim",
+                "type": "minecraft:model"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "model": "expanded_trims:item/trimmed/wooden_spear_in_hand_glowstone_sine_trim",
+            "type": "minecraft:model"
+          },
+          "property": "minecraft:display_context",
+          "type": "minecraft:select"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:sine"
+        }
+      }
+    ],
+    "component": "minecraft:trim",
+    "fallback": {
+      "cases": [
+        {
+          "model": {
+            "model": "minecraft:item/wooden_spear",
+            "type": "minecraft:model"
+          },
+          "when": [
+            "gui",
+            "ground",
+            "fixed",
+            "on_shelf"
+          ]
+        }
+      ],
+      "fallback": {
+        "model": "minecraft:item/wooden_spear_in_hand",
+        "type": "minecraft:model"
+      },
+      "property": "minecraft:display_context",
+      "type": "minecraft:select"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
+  },
+  "swap_animation_scale": 1.95
+}

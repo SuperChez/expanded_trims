@@ -1,0 +1,293 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_quartz_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_quartz_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_iron_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_iron_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_netherite_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_netherite_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_redstone_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_redstone_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_copper_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_copper_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_gold_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_gold_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_emerald_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_emerald_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_diamond_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_diamond_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_lapis_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_lapis_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_amethyst_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_amethyst_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_resin_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_resin_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_pearl_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_pearl_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_echo_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_echo_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:accent"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_glowstone_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/totem_of_undying_glowstone_accent_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:accent"
+        }
+      }
+    ],
+    "component": "minecraft:trim",
+    "fallback": {
+      "model": "minecraft:item/totem_of_undying",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
+  }
+}

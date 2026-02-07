@@ -1,0 +1,60 @@
+{
+  "display": {
+    "firstperson_lefthand": {
+      "rotation": [
+        55,
+        -85,
+        0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "translation": [
+        8.0,
+        0.5,
+        -5.5
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        -45
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "translation": [
+        0,
+        4,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        45
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "translation": [
+        0,
+        4,
+        0
+      ]
+    }
+  },
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/brush",
+    "layer1": "expanded_trims:trims/items/accent_brush_redstone"
+  }
+}

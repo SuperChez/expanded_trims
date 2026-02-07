@@ -1,0 +1,433 @@
+{
+  "model": {
+    "cases": [
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_quartz_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_quartz_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_quartz_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:quartz",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_iron_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_iron_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_iron_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:iron",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_netherite_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_netherite_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_netherite_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:netherite",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_redstone_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_redstone_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_redstone_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:redstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_copper_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_copper_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_copper_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:copper",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_gold_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_gold_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_gold_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:gold",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_emerald_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_emerald_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_emerald_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:emerald",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_diamond_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_diamond_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_diamond_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:diamond",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_lapis_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_lapis_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_lapis_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:lapis",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_amethyst_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_amethyst_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_amethyst_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:amethyst",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_resin_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_resin_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_resin_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "minecraft:resin",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_pearl_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_pearl_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_pearl_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:pearl",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_echo_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_echo_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_echo_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:echo",
+          "pattern": "expanded_trims:lacquer"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_glowstone_sine_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:sine"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_glowstone_linear_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:linear"
+        }
+      },
+      {
+        "model": {
+          "model": "expanded_trims:item/trimmed/stone_sword_glowstone_lacquer_trim",
+          "type": "minecraft:model"
+        },
+        "when": {
+          "material": "expanded_trims:glowstone",
+          "pattern": "expanded_trims:lacquer"
+        }
+      }
+    ],
+    "component": "minecraft:trim",
+    "fallback": {
+      "model": "minecraft:item/stone_sword",
+      "type": "minecraft:model"
+    },
+    "property": "minecraft:component",
+    "type": "minecraft:select"
+  }
+}
