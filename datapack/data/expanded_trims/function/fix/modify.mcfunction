@@ -1,0 +1,1 @@
+$item modify entity @s $(slot) {function:"minecraft:set_components",components:{"minecraft:provides_trim_material":"expanded_trims:$(material)"},conditions:[{condition:"minecraft:entity_properties",entity:"this",predicate:{slots:{"$(slot)":{items:"minecraft:$(item)"}}}}]}

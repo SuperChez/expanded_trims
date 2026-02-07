@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:multi_action",
+    "title": "Info",
+    "body": {
+        "type": "minecraft:plain_message",
+        "contents": [
+            "Minecraft Version: 1.21.11\n",
+            "Expanded Trims Version: 1.0\n",
+            "Data format: 94.1\n",
+            "Resource format: 75.0\n"
+        ]
+    },
+    "inputs": [],
+    "can_close_with_escape": true,
+    "pause": true,
+    "exit_action": {
+        "label": "Done",
+        "action": {
+            "type": "minecraft:show_dialog",
+            "dialog": "expanded_trims:menu"
+        }
+    },
+    "actions": [
+        {
+            "label": "GitHub"
+        }
+    ]
+}

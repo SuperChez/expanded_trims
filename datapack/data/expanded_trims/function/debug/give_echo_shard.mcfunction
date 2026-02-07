@@ -1,0 +1,1 @@
+give @s echo_shard[provides_trim_material="expanded_trims:echo"]

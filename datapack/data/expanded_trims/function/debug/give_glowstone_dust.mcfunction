@@ -1,0 +1,1 @@
+give @s glowstone_dust[provides_trim_material="expanded_trims:glowstone"]

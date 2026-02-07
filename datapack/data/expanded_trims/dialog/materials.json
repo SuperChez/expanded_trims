@@ -1,0 +1,122 @@
+{
+    "type": "minecraft:notice",
+    "title": "Materials",
+    "body": [
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:amethyst_shard"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:copper_ingot"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:diamond"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:emerald"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:gold_ingot"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:iron_ingot"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:lapis_lazuli"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:quartz"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:netherite_ingot"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:redstone"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:resin_brick"
+            },
+            "description": "Vanilla"
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:echo_shard"
+            },
+            "description": {
+                "text": "New!",
+                "color": "green"
+            }
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:ender_pearl"
+            },
+            "description": {
+                "text": "New!",
+                "color": "green"
+            }
+        },
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:glowstone_dust"
+            },
+            "description": {
+                "text": "New!",
+                "color": "green"
+            }
+        }
+    ],
+    "can_close_with_escape": true,
+    "pause": true,
+    "action": {
+        "label": "Done",
+        "action": {
+            "type": "minecraft:show_dialog",
+            "dialog": "expanded_trims:menu"
+        }
+    }
+}

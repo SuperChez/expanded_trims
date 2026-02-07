@@ -1,0 +1,5 @@
+scoreboard objectives add expanded_trims.credits trigger
+scoreboard objectives add expanded_trims.list_trim_materials trigger
+scoreboard objectives add expanded_trims.list_trim_templates trigger
+scoreboard objectives add expanded_trims.fix trigger
+scoreboard objectives add expanded_trims.dialog trigger

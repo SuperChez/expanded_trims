@@ -1,0 +1,1 @@
+give @s ender_pearl[provides_trim_material="expanded_trims:pearl"]

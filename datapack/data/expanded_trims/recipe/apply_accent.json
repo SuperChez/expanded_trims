@@ -1,0 +1,7 @@
+{
+    "type": "minecraft:smithing_trim",
+    "base": "#expanded_trims:supports_accent_trim",
+    "addition": "#minecraft:trim_materials",
+    "template": "minecraft:jigsaw",
+    "pattern": "expanded_trims:accent"
+}

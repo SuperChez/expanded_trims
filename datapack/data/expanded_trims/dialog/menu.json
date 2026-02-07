@@ -1,0 +1,51 @@
+{
+    "type": "minecraft:multi_action",
+    "title": "Expanded Trims Menu",
+    "external_title": "Expanded Trims",
+    "body": [],
+    "inputs": [],
+    "can_close_with_escape": true,
+    "pause": true,
+    "exit_action": {
+        "label": "Done"
+    },
+    "columns": 1,
+    "actions": [
+        {
+            "label": "Materials",
+            "action": {
+                "type": "minecraft:show_dialog",
+                "dialog": "expanded_trims:materials"
+            }
+        },
+        {
+            "label": "Templates",
+            "action": {
+                "type": "minecraft:show_dialog",
+                "dialog": "expanded_trims:patterns"
+            }
+        },
+        {
+            "label": "Credits",
+            "action": {
+                "type": "minecraft:show_dialog",
+                "dialog": "expanded_trims:credits"
+            }
+        },
+        {
+            "label": "Info",
+            "action": {
+                "type": "minecraft:show_dialog",
+                "dialog": "expanded_trims:info"
+            }
+        },
+        {
+            "label": "Fix materials in inventory",
+            "tooltip": "If you obtained a material that is added by this pack before the pack was active on the world, click this button!",
+            "action": {
+                "type": "minecraft:run_command",
+                "command": "trigger expanded_trims.fix"
+            }
+        }
+    ]
+}

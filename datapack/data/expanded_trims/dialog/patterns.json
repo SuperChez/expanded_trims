@@ -1,0 +1,275 @@
+{
+    "type": "minecraft:notice",
+    "title": "Templates",
+    "body": [
+        {
+            "type": "minecraft:item",
+            "item": {
+                "id": "minecraft:command_block",
+                "components": {
+                    "item_name": {
+                        "translate": "item.expanded_trims.linear_trim_smithing_template"
+                    },
+                    "lore": [
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template"
+                        },
+                        " ",
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template.applies_to"
+                        },
+                        [
+                            " ",
+                            {
+                                "color": "blue",
+                                "italic": false,
+                                "translate": "item.expanded_trims.smithing_template.applies_to.linear"
+                            }
+                        ],
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template.ingredients"
+                        },
+                        [
+                            " ",
+                            {
+                                "color": "blue",
+                                "italic": false,
+                                "translate": "item.minecraft.smithing_template.armor_trim.ingredients"
+                            }
+                        ]
+                    ],
+                    "rarity": "uncommon",
+                    "item_model": "expanded_trims:linear_tool_trim_smithing_template"
+                }
+            },
+            "description": [
+                {
+                    "text": "Applies to: ",
+                    "color": "blue"
+                },
+                {
+                    "text": "Swords, Spears, Pickaxes, Axes, Shovels, Hoes, Flint and Steel\n",
+                    "color": "white"
+                },
+                {
+                    "text": "Found in: ",
+                    "color": "blue"
+                },
+                {
+                    "text": "Jungle Temples",
+                    "color": "white"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "item": {
+                "id": "minecraft:chain_command_block",
+                "components": {
+                    "minecraft:item_name": {
+                        "translate": "item.expanded_trims.sine_trim_smithing_template"
+                    },
+                    "minecraft:lore": [
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template"
+                        },
+                        " ",
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template.applies_to"
+                        },
+                        [
+                            " ",
+                            {
+                                "color": "blue",
+                                "italic": false,
+                                "translate": "item.expanded_trims.smithing_template.applies_to.sine"
+                            }
+                        ],
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template.ingredients"
+                        },
+                        [
+                            " ",
+                            {
+                                "color": "blue",
+                                "italic": false,
+                                "translate": "item.minecraft.smithing_template.armor_trim.ingredients"
+                            }
+                        ]
+                    ],
+                    "minecraft:rarity": "uncommon",
+                    "minecraft:item_model": "expanded_trims:sine_tool_trim_smithing_template"
+                }
+            },
+            "description": [
+                {
+                    "text": "Applies to: ",
+                    "color": "blue"
+                },
+                {
+                    "text": "Swords, Spears\n",
+                    "color": "white"
+                },
+                {
+                    "text": "Found in: ",
+                    "color": "blue"
+                },
+                {
+                    "text": "Nether Fortresses",
+                    "color": "white"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "item": {
+                "id": "repeating_command_block",
+                "components": {
+                    "minecraft:item_name": {
+                        "translate": "item.expanded_trims.lacquer_trim_smithing_template"
+                    },
+                    "minecraft:lore": [
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template"
+                        },
+                        " ",
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template.applies_to"
+                        },
+                        [
+                            " ",
+                            {
+                                "color": "blue",
+                                "italic": false,
+                                "translate": "item.expanded_trims.smithing_template.applies_to.lacquer"
+                            }
+                        ],
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template.ingredients"
+                        },
+                        [
+                            " ",
+                            {
+                                "color": "blue",
+                                "italic": false,
+                                "translate": "item.minecraft.smithing_template.armor_trim.ingredients"
+                            }
+                        ]
+                    ],
+                    "minecraft:rarity": "uncommon",
+                    "minecraft:item_model": "expanded_trims:lacquer_tool_trim_smithing_template"
+                }
+            },
+            "description": [
+                {
+                    "text": "Applies to: ",
+                    "color": "blue"
+                },
+                {
+                    "text": "Armor, Swords, Spears, Maces, Pickaxes, Axes, Shovels, Hoes, Flint and Steel, Brushes, Shears, Totems of Undying\n",
+                    "color": "white"
+                },
+                {
+                    "text": "Found in: ",
+                    "color": "blue"
+                },
+                {
+                    "text": "End Cities",
+                    "color": "white"
+                }
+            ]
+        },
+        {
+            "type": "item",
+            "item": {
+                "id": "jigsaw",
+                "components": {
+                    "minecraft:item_name": {
+                        "translate": "item.expanded_trims.accent_trim_smithing_template"
+                    },
+                    "minecraft:lore": [
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template"
+                        },
+                        " ",
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template.applies_to"
+                        },
+                        [
+                            " ",
+                            {
+                                "color": "blue",
+                                "italic": false,
+                                "translate": "item.expanded_trims.smithing_template.applies_to.accent"
+                            }
+                        ],
+                        {
+                            "color": "gray",
+                            "italic": false,
+                            "translate": "item.minecraft.smithing_template.ingredients"
+                        },
+                        [
+                            " ",
+                            {
+                                "color": "blue",
+                                "italic": false,
+                                "translate": "item.minecraft.smithing_template.armor_trim.ingredients"
+                            }
+                        ]
+                    ],
+                    "minecraft:rarity": "uncommon",
+                    "minecraft:item_model": "expanded_trims:accent_trim_smithing_template"
+                }
+            },
+            "description": [
+                {
+                    "text": "Applies to: ",
+                    "color": "blue"
+                },
+                {
+                    "text": "Brushes, Shears, Flint and Steel, Totems of Undying, Goat Horns\n",
+                    "color": "white"
+                },
+                {
+                    "text": "Found in: ",
+                    "color": "blue"
+                },
+                {
+                    "text": "Abandoned Mineshafts",
+                    "color": "white"
+                }
+            ]
+        }
+    ],
+    "can_close_with_escape": true,
+    "pause": true,
+    "action": {
+        "label": "Done",
+        "action": {
+            "type": "minecraft:show_dialog",
+            "dialog": "expanded_trims:menu"
+        }
+    }
+}

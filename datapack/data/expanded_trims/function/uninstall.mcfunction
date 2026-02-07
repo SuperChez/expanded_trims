@@ -1,0 +1,5 @@
+scoreboard objectives remove expanded_trims.credits
+scoreboard objectives remove expanded_trims.list_trim_materials
+scoreboard objectives remove expanded_trims.list_trim_templates
+scoreboard objectives remove expanded_trims.fix
+scoreboard objectives remove expanded_trims.dialog

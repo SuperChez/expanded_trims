@@ -1,0 +1,101 @@
+{
+    "type": "minecraft:notice",
+    "title": "Credits",
+    "body": {
+        "type": "minecraft:plain_message",
+        "contents": [
+            {
+                "text": "",
+                "bold": false,
+                "underlined": false
+            },
+            {
+                "text": "Programming\n",
+                "bold": true,
+                "underlined": true
+            },
+            "lukaseuph\n\n",
+            {
+                "text": "Art\n",
+                "bold": true,
+                "underlined": true
+            },
+            "lukaseuph\n\n",
+            {
+                "text": "Testing & Feedback\n",
+                "bold": true,
+                "underlined": true
+            },
+            "Scy\nWDGhost\nMrunicorn\ngg1k\nmaotio\nAva2102_\nInclxx\nThe Challenge Saber Discord server\n\n",
+            {
+                "text": "Special Thanks\n",
+                "bold": true,
+                "underlined": true
+            },
+            {
+                "text": "Visual Studio Code\n",
+                "color": "blue",
+                "underlined": true,
+                "click_event": {
+                    "action": "open_url",
+                    "url": "https://code.visualstudio.com"
+                }
+            },
+            {
+                "text": "Rust Programming Language\n",
+                "color": "blue",
+                "underlined": true,
+                "click_event": {
+                    "action": "open_url",
+                    "url": "https://rust-lang.org"
+                }
+            },
+            {
+                "text": "RustRover\n",
+                "color": "blue",
+                "underlined": true,
+                "click_event": {
+                    "action": "open_url",
+                    "url": "https://jetbrains.com/rust"
+                }
+            },
+            {
+                "text": "Paint.net\n",
+                "color": "blue",
+                "underlined": true,
+                "click_event": {
+                    "action": "open_url",
+                    "url": "https://getpaint.net/"
+                }
+            },
+            {
+                "text": "serde\n",
+                "color": "blue",
+                "underlined": true,
+                "click_event": {
+                    "action": "open_url",
+                    "url": "https://serde.rs/"
+                }
+            },
+            {
+                "text": "serde_json\n",
+                "color": "blue",
+                "underlined": true,
+                "click_event": {
+                    "action": "open_url",
+                    "url": "https://crates.io/crates/serde_json"
+                }
+            }
+        ],
+        "width": 300
+    },
+    "can_close_with_escape": true,
+    "pause": true,
+    "action": {
+        "label": "Done",
+        "action": {
+            "type": "minecraft:show_dialog",
+            "dialog": "expanded_trims:menu"
+        }
+    }
+}

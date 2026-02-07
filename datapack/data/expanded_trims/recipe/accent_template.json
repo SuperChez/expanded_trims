@@ -1,0 +1,59 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": "minecraft:diamond",
+        "C": "minecraft:tuff",
+        "S": "minecraft:jigsaw"
+    },
+    "pattern": [
+        "#S#",
+        "#C#",
+        "###"
+    ],
+    "result": {
+        "components": {
+            "minecraft:item_name": {
+                "translate": "item.expanded_trims.accent_trim_smithing_template"
+            },
+            "minecraft:lore": [
+                {
+                    "color": "gray",
+                    "italic": false,
+                    "translate": "item.minecraft.smithing_template"
+                },
+                " ",
+                {
+                    "color": "gray",
+                    "italic": false,
+                    "translate": "item.minecraft.smithing_template.applies_to"
+                },
+                [
+                    " ",
+                    {
+                        "color": "blue",
+                        "italic": false,
+                        "translate": "item.expanded_trims.smithing_template.applies_to.accent"
+                    }
+                ],
+                {
+                    "color": "gray",
+                    "italic": false,
+                    "translate": "item.minecraft.smithing_template.ingredients"
+                },
+                [
+                    " ",
+                    {
+                        "color": "blue",
+                        "italic": false,
+                        "translate": "item.minecraft.smithing_template.armor_trim.ingredients"
+                    }
+                ]
+            ],
+            "minecraft:rarity": "uncommon",
+            "minecraft:item_model": "expanded_trims:accent_trim_smithing_template"
+        },
+        "count": 2,
+        "id": "minecraft:jigsaw"
+    }
+}
